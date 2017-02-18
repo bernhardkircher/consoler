@@ -1,0 +1,8 @@
+d:\src\Consoler\Consoler.TestApp\bin\Debug\Consoler.TestApp.exe.config
+d:\src\Consoler\Consoler.TestApp\bin\Debug\Consoler.TestApp.exe
+d:\src\Consoler\Consoler.TestApp\bin\Debug\Consoler.TestApp.pdb
+d:\src\Consoler\Consoler.TestApp\bin\Debug\Consoler.dll
+d:\src\Consoler\Consoler.TestApp\bin\Debug\Consoler.pdb
+d:\src\Consoler\Consoler.TestApp\obj\Debug\Consoler.TestApp.csprojResolveAssemblyReference.cache
+d:\src\Consoler\Consoler.TestApp\obj\Debug\Consoler.TestApp.exe
+d:\src\Consoler\Consoler.TestApp\obj\Debug\Consoler.TestApp.pdb

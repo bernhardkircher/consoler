@@ -1,0 +1,5 @@
+d:\src\Consoler\Consoler\bin\Debug\Consoler.dll
+d:\src\Consoler\Consoler\bin\Debug\Consoler.pdb
+d:\src\Consoler\Consoler\obj\Debug\Consoler.csprojResolveAssemblyReference.cache
+d:\src\Consoler\Consoler\obj\Debug\Consoler.dll
+d:\src\Consoler\Consoler\obj\Debug\Consoler.pdb
