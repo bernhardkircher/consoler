@@ -5,3 +5,5 @@ Currently this includes:
 - Progressbar
 - Menu
 
+Examples can be found in the  Consoler.TestApp project.
+
